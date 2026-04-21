@@ -1,0 +1,13 @@
+plantvillage_env/
+__pycache__/
+*.pyc
+
+data/
+dataset/
+outputs/
+models/
+
+*.ipynb_checkpoints
+
+*.keras
+*.h5
