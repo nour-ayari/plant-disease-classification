@@ -12,7 +12,7 @@ import {
   View,
 } from 'react-native';
 
-const API_URL = 'http://192.168.1.132:8000';
+const API_URL = "http://10.153.189.28:8000";
 
 type Result = {
   disease: string;

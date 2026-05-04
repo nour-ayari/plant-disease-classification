@@ -10,6 +10,3 @@ dependencies = [
     "tensorflow>=2.21.0",
     "uvicorn[standard]>=0.46.0",
 ]
-
-[tool.uv.scripts]
-serve = "uvicorn app.main:app --reload --host 0.0.0.0 --port 8000"
